@@ -1,5 +1,4 @@
-![IMG_20250901_155410633_MFNR](https://github.com/user-attachments/assets/a1dd5b40-0544-4fad-9bb7-b434cfde41e8)
-![IMG_20250901_161340143_MFNR](https://github.com/user-attachments/assets/cfe34e9e-68f8-4370-9fc6-7f36a8bff743)
+
 ![IMG_20250901_161408837_MFNR](https://github.com/user-attachments/assets/4bff55a8-d8ea-425b-8f21-8f1ff1904fb8)
 # fictional-adventure
 Explicações técnicas sobre como as ferramentas Azure Speech Studio e Language Studio foram utilizadas.
